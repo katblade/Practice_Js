@@ -16,3 +16,9 @@
 - Segundo paso: implementar las formulas en JS
 - Tercer paso: crear funciones 
 - Cuarto paso: integrar Js con HTML
+
+## taller 3°: Medias, Medianas y Moda
+- Primer paso: definir las formulas 
+- Segundo paso: implementar las formulas en JS
+- Tercer paso: crear funciones 
+- Cuarto paso: integrar Js con HTML
