@@ -22,3 +22,7 @@
 - Segundo paso: implementar las formulas en JS
 - Tercer paso: crear funciones 
 - Cuarto paso: integrar Js con HTML
+
+## finalización del proyecto 
+- publicacion de los proyectos 
+- proximos cambios y agregado de estilos css
